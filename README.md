@@ -29,8 +29,8 @@
 
 | 开启翻译（both） | 关闭翻译（off） |
 | :---: | :---: |
-| ![命令菜单开启](images/command-both.png) | ![命令菜单关闭](images/command-off.png) |
-| ![插件列表开启](images/plugin-both.png) | ![插件列表关闭](images/plugin-off.png) |
+| ![命令菜单开启](https://cdn.jsdelivr.net/gh/Lin-AxiomSight/dsh-zh-layer@main/images/command-both.png) | ![命令菜单关闭](https://cdn.jsdelivr.net/gh/Lin-AxiomSight/dsh-zh-layer@main/images/command-off.png) |
+| ![插件列表开启](https://cdn.jsdelivr.net/gh/Lin-AxiomSight/dsh-zh-layer@main/images/plugin-both.png) | ![插件列表关闭](https://cdn.jsdelivr.net/gh/Lin-AxiomSight/dsh-zh-layer@main/images/plugin-off.png) |
 
 
 
