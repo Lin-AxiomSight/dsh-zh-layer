@@ -119,7 +119,7 @@ dsh plugin --profile web remove dsh-zh-layer
 
 这个项目诞生于我的日常痛点，也见证了我对 DSH 插件底层架构（Cordis）和 React 渲染的持续探索。
 
-欢迎提交 Issue、PR，或是通过 GitHub 私信交流 DSH 插件开发相关心得。
+欢迎提交 Issue，或是通过 GitHub 私信交流。
 
 
 
