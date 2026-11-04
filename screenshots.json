@@ -1,6 +1,20 @@
-[
-  "https://cdn.jsdelivr.net/gh/Lin-AxiomSight/dsh-zh-layer@main/images/command-both.png",
-  "https://cdn.jsdelivr.net/gh/Lin-AxiomSight/dsh-zh-layer@main/images/command-off.png",
-  "https://cdn.jsdelivr.net/gh/Lin-AxiomSight/dsh-zh-layer@main/images/plugin-both.png",
-  "https://cdn.jsdelivr.net/gh/Lin-AxiomSight/dsh-zh-layer@main/images/plugin-off.png"
-]
+{
+  "screenshots": [
+    {
+      "src": "images/command-both.png",
+      "alt": "命令菜单开启双语对照"
+    },
+    {
+      "src": "images/command-off.png",
+      "alt": "命令菜单关闭翻译恢复原版"
+    },
+    {
+      "src": "images/plugin-both.png",
+      "alt": "插件列表开启双语对照"
+    },
+    {
+      "src": "images/plugin-off.png",
+      "alt": "插件列表关闭翻译恢复原版"
+    }
+  ]
+}
